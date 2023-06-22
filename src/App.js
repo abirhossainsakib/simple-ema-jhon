@@ -9,6 +9,6 @@ function App() {
       <Shop></Shop>
     </div>
   );
-}
+} 
 
 export default App;
